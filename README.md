@@ -1,2 +1,3 @@
 # RedisUniversity
-Redis University - Working repository
+## Redis University - Learning repository
+### Courses, learning paths, live sessions content and more...
